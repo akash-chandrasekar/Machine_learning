@@ -1,2 +1,3 @@
 # Code
-The repo contains all my data science related code which is from scratch 
+Hey there! This repo is all about how I learned machine learning 
+
